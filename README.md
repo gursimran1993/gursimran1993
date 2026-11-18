@@ -12,7 +12,7 @@ to take products from requirements to production.
 
 - Frontend: React.js, Next.js, JavaScript, TypeScript
 - Mobile: React Native
-- Backend: Node.js, Express.js, REST APIs
+- Backend: Node.js, Express.js, Python, Fast Api's, REST APIs
 - Databases: PostgreSQL, MySQL
 - Background Processing: Redis, BullMQ
 - Cloud & Deployment: AWS, Linux, Nginx, PM2
